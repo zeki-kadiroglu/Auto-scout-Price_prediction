@@ -2,6 +2,5 @@
 After one of the most challenging **data analysis** (EDA process),
 implementing algorithms in order to price prediction
 Particularly , using regression models so as to predict  car prices .
-Additionally, Auto_Scout dataset is real life dataset from same named company.
-Therefore ,it reflects real world project difficulties.
--
+Additionally, Auto_Scout is the most famous website for 2nd hand car marketing.
+- So, prediction results are great to get idea about car prices. 
